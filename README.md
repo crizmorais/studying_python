@@ -1,2 +1,2 @@
-# studing_python
+# studying_python
 here you will find my studies on python.
